@@ -1,5 +1,5 @@
 # RPS
-Welcome to my personal portfolio project! 🌐
+Welcome to Rock, Paper, Scissors Game!
 
 ## Overview 📝
 
