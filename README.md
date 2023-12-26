@@ -11,7 +11,7 @@ Using my knowledge in JavaScript, I've crafted this space to showcase my Rock, P
   
 - **Automatic computers choice:** Computer automatically gives random answers between the three choices.
 
-- **Secret Cheat code:** Remember when I said only Rock, Paper or Scissors? well if you carefully read the code you will see that there is a secret cheat code to win the game no matter what!
+- **Secret CHEAT code:** Remember when I said only Rock, Paper or Scissors? well if you carefully read the code you will see that there is a secret cheat code to win the game no matter what!
 
 ## Tech Stack 💻
 
